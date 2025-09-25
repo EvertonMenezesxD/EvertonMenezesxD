@@ -59,8 +59,8 @@ Sou movido por dados com propósito: crio dashboards, interpreto KPIs e apoio de
 ---
 
 ### 📈 GitHub em ritmo de Sankofa
-![Everton's GitHub stats](https://github-readme-stats.vercel.app/api?username=everton&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=everton&layout=compact&theme=tokyonight)
+![Everton's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonMenezesxD&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonMenezesxD&layout=compact&theme=tokyonight)
 
 ---
 
