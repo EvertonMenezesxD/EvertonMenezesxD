@@ -1,94 +1,74 @@
-# 👋🏾 Salve! Eu sou Everton — dev afro-tech em movimento 🌍💻
+# 🐦 Everton Menezes — Dados com propósito, guiado por Sankofa
 
-Sou Everton Antonio dos Santos Menezes, desenvolvedor e arquiteto de soluções com raízes profundas na ancestralidade e os olhos voltados para o futuro da tecnologia. Misturo Python com propósito, React com ritmo, e boto fé que dados bem tratados podem transformar realidades.
+Salve! Eu sou Everton, profissional de dados e analytics com alma afro-tech e filosofia Sankofa: olho para o passado com respeito, para construir soluções que fazem sentido no presente e criam impacto no futuro.
 
-> “Eu sou porque nós somos” — Ubuntu é meu sistema operacional espiritual.
-
----
-
-### 🧠 Sobre mim
-
-- 📍 São Paulo/SP — Brasil
-- 💼 SME Data & Analytics no Itaú Unibanco
-- 🎓 MBA em Arquitetura de Soluções pela FIAP (2019)
-- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul (2015)
-- 🗣️ Inglês Intermediário
+> “Sankofa: não é tabu voltar atrás e buscar o que se esqueceu.”  
+> Essa é minha bússola — nos dados, na vida e na tecnologia.
 
 ---
 
-### 🛠️ Minhas armas digitais
+### 📊 Sobre mim
 
-**Linguagens que dançam no meu teclado:**
+- 📍 São Paulo/SP — Brasil  
+- 💼 Atuando com projetos de dados e analytics no Itaú Unibanco  
+- 🎓 MBA em Arquitetura de Soluções — FIAP  
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — Cruzeiro do Sul  
+- 🗣️ Inglês Intermediário  
+
+Trabalho com definição de requisitos, desenvolvimento de soluções analíticas, governança e qualidade de dados. Tenho experiência prática com ferramentas como AWS Glue, Amazon Athena, PySpark, Python, Amazon S3 e Atlan, aplicadas em projetos de ETL/ELT, data catalog, data quality e data governance.
+
+Sou movido por dados com propósito: crio dashboards, interpreto KPIs e apoio decisões estratégicas com base em insights reais. Minha abordagem une técnica, visão sistêmica e respeito às raízes.
+
+---
+
+### 🛠️ Stack Sankofa — Ferramentas que me acompanham
+
+**Linguagens e frameworks:**
 - 🐍 Python
 - 🔢 SQL
 - ⚙️ C#
-- ⚡ JavaScript
-- 🎨 HTML + CSS
-
-**Frameworks e ferramentas que me acompanham:**
 - ⚛️ React
 - 🌐 Node.js
 - 🔥 PySpark
-- 🧠 SharePoint
-- 🧪 Visual Studio Code
+- 🎨 HTML + CSS
 
-**Cloud vibes:**
+**Cloud & Analytics:**
 - ☁️ Amazon S3
 - 🔄 AWS Glue
 - 🔍 Athena
 - 📊 QuickSight
 - 📚 Atlan
 
-**Metodologias ágeis e gestão:**
+**Ferramentas e metodologias:**
+- 🧠 SharePoint
+- 🧪 Visual Studio Code
 - 🌀 Scrum, Kanban, Lean Inception, PBB
-- 📊 Gestão de capacity, orçamento e métricas
-- 🤝 Facilitação de dinâmicas e comunicação entre stakeholders
 
 ---
 
-### 📈 GitHub em ritmo de tambor
+### 🏆 Certificações
+
+- Atlan Cost Optimization (2025)  
+- Fundamentos de Governança de Dados (2025)  
+- Amazon QuickSight (2024)  
+- LGPD – Lei Geral de Proteção de Dados (2024)  
+- PSM-II, PSK-I, PSPO-I  
+- Six Sigma Yellow Belt  
+- Product Masterclass, Management 3.0, Design Thinking  
+
+---
+
+### 📈 GitHub em ritmo de Sankofa
 ![Everton's GitHub stats](https://github-readme-stats.vercel.app/api?username=everton&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=everton&layout=compact&theme=tokyonight)
 
 ---
 
-### 🏆 Certificações e conquistas
-
-- Atlan Cost Optimization (2025)
-- Fundamentos de Governança de Dados (2025)
-- Amazon QuickSight (2024)
-- LGPD – Lei Geral de Proteção de Dados (2024)
-- PSM-II, PSK-I, PSPO-I, Scrum Fundamentals
-- Kanban Statik, Product Masterclass, Management 3.0
-- Six Sigma Yellow Belt, Design Thinking, Lean Startup
-
----
-
-### 💼 Experiência profissional
-
-**Itaú Unibanco (2020–Atual)**  
-SME Data & Analytics, Program Manager e Team Lead  
-→ Desenvolvimento de soluções analíticas, governança de dados, dashboards, KPIs, gestão de times e cultura orientada por dados.
-
-**Iteris Consultoria (2017–2020)**  
-Agile Master, Product Owner, Analista Desenvolvedor SharePoint  
-→ Facilitação ágil, gestão de backlog, desenvolvimento de soluções em .NET, React, AngularJS e SharePoint.
-
-**Avanade (2015–2017)**  
-Software Engineer  
-→ Desenvolvimento fullstack, arquitetura de soluções, integração corporativa.
-
-**Abril Educação (2012–2015)**  
-Administrador SharePoint  
-→ Deploys, QA, migração de servidores, automações com PowerShell e gestão de conteúdo.
-
----
-
 ### 🔗 Conexões
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/evertonmenezes)
-- 🖤 Em breve: meu portfólio com projetos afro-tech
+- 🌐 [LinkedIn](https://www.linkedin.com/in/evertonmenezes)  
+- 🖤 Em breve: meu portfólio com projetos afro-tech e soluções analíticas  
 
 ---
 
-**Seja bem-vindo ao meu quilombo digital. Aqui, cada linha de código carrega história, propósito e futuro.**
+**Este é meu quilombo digital. Aqui, cada dado tem origem, cada insight tem propósito, e cada linha de código carrega história. Sankofa é meu guia — e a tecnologia, minha ferramenta de transformação.**
